@@ -11,14 +11,9 @@
 ## Install
 
 ```sh
-npm install
+npm install pixel-image
 ```
 
-## Run tests
-
-```sh
-npm run test
-```
 
 ## Author
 
