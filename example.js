@@ -1,5 +1,5 @@
 const http = require('http')
-const PNGlib = require('.')
+const PNGlib = require('pixel-image')
 
 http.createServer(function (req, res) {
   if (req.url === '/favicon.ico') return res.end('')
